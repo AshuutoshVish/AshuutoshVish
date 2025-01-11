@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AshuutoshVish&label=Profile%20views&color=0e75b6&style=flat" alt="AshuutoshVish" /> </p>
 
-<p align="center"> <a href="https://x.com/ashu_sir_maa" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_sir_maa" &style=flat alt="ashu_sir_maa" /></a> </p>
+<p align="center"> <a href="https://x.com/ashu_sir_maa" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_sir_maa" &style=flat alt="ashu_sir_maa" target="blank"/></a> </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashuutosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikashsharmaa25" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashuutosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashuutosh" height="30" width="40" /></a>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
