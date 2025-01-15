@@ -70,7 +70,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshuutoshVish&show_icons=true&locale=en" alt="AshuutoshVish" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshuutoshVish&" alt="AshuutoshVish" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshuutoshVish" alt="AshuutoshVish" />
     </td>
   </tr>
 </table>
