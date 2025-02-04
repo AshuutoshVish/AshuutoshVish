@@ -9,13 +9,13 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭 I’m currently working on **Web Projects**
+- 🔭 I’m currently working on **AI Projects**
 
-- 🌱 I’m currently learning **Python Full Stack Development**
+- 🌱 I’m currently learning **AI & ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshuutoshVish/](https://github.com/AshuutoshVish/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python & Machine Learning**
 
 - 📫 How to reach me **ashusharma3535@gmail.com**
 
