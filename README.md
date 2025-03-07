@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshuutoshVish/](https://github.com/AshuutoshVish/)
 
-- ⚡ Fun fact **Explore Every Things**
+- ⚡ Fun fact **Explore Artificial Intelligence Things**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Connect with me:</h3>
