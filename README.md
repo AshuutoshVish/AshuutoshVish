@@ -39,7 +39,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,pytorch,flask,ai," />
+    <img src="https://skillicons.dev/icons?i=py,django,pytorch,flask,ai,sklearn" />
   </a>
 </p>
 
