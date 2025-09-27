@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">Hi 👋, I'm Ashutosh Vishwakarma</h1>
-<h3 align="center">A passionate Software Developer from Gorakhpur, India</h3>
+<h3 align="center">A passionate Software Developer and Automation developer from Gorakhpur, India</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AshuutoshVish&label=Profile%20views&color=0e75b6&style=flat" alt="AshuutoshVish" /> </p>
@@ -9,17 +9,17 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently learning **AI & ML & Automation**
 
-- 🔭 I’m currently working on **AI Projects**
+- 🔭 I’m currently working on **Automation and AI Projects**
 
-- 💬 Ask me about **Python & Machine Learning**
+- 💬 Ask me about **Python, Machine Learning & Automation**
 
 - 📫 How to reach me **ashusharma3535@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshuutoshVish/](https://github.com/AshuutoshVish/)
 
-- ⚡ Fun fact **Explore Artificial Intelligence and Machine Learning Things**
+- ⚡ Fun fact **Automating and Exploring Artificial Intelligence and Machine Learning Things**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Connect with me:</h3>
@@ -39,28 +39,28 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,pytorch,flask,ai,sklearn" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,pytorch,ai,sklearn" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,bootstrap,materialui" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,docker,postman,anaconda,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,anaconda,pycharm,vscode" />
   </a>
 </p>
 
