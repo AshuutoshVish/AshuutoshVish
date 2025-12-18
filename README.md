@@ -39,7 +39,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,pytorch,ai,sklearn" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,pytorch,ai,sklearn" />
   </a>
 </p>
 
@@ -53,14 +53,14 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,materialui" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,anaconda,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,anaconda,pycharm,vscode" />
   </a>
 </p>
 
