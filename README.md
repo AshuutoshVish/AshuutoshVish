@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI & ML & Automation**
 
-- 🔭 I’m currently working on **Automation and AI Projects**
+- 🔭 I’m currently working on **Chatbots and AI Projects**
 
 - 💬 Ask me about **Python, Machine Learning & Automation**
 
@@ -39,7 +39,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,pytorch,ai,sklearn" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,pytorch,ai,sklearn" />
   </a>
 </p>
 
